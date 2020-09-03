@@ -5,6 +5,7 @@
 A. Abstract (tl;dr)
 B. Introduction
 C. Hypothesis
+The bigger the state the more cases but fewer deaths than a smaller state with fewer cases and more deaths.
 D. Datasets used
 E. Description of analyses
 F. Conclusions
